@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "funciones.h"
-#define TPERSONA 5
+#define TPERSONA 20
 
 int main()
 {
